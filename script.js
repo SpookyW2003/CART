@@ -8,45 +8,47 @@ const products = [
         id: 1,
         name: "Luxury Designer Outfit #1",
         price: 199.99,
-        image: "https://i.postimg.cc/C5n3S4Lb/photo-1432149877166-f75d49000351.jpg"
+        image: "/photo-1432149877166-f75d49000351.jpg"
     },
     {
         id: 2,
         name: "Luxury Designer Outfit #2",
         price: 249.99,
-        image: "https://i.postimg.cc/4dyCFgDL/photo-1515886657613-9f3515b0c78f.jpg"
+        image: "/photo-1515886657613-9f3515b0c78f.jpg"
     },
     {
         id: 3,
         name: "Luxury Designer Outfit #3",
         price: 179.99,
-        image: "https://i.postimg.cc/rz6vmtK3/photo-1529139574466-a303027c1d8b.jpg"
+        image: "/photo-1529139574466-a303027c1d8b.jpg"
     },
     {
         id: 4,
         name: "Luxury Designer Outfit #4",
         price: 229.99,
-        image: "https://i.postimg.cc/4dSDD0ZJ/photo-1588117260148-b47818741c74.jpg"
+        image: "/photo-1588117260148-b47818741c74.jpg"
     },
     {
         id: 5,
         name: "Luxury Designer Outfit #5",
         price: 159.99,
-        image: "https://i.postimg.cc/7PCh585n/photo-1603344797033-f0f4f587ab60.jpg"
+        image: "/photo-1603344797033-f0f4f587ab60.jpg"
     },
     {
         id: 6,
         name: "Luxury Designer Outfit #6",
         price: 269.99,
-        image: "https://i.postimg.cc/2jP6vcvR/photo-1608748010899-18f300247112.jpg"
+        image: "/photo-1608748010899-18f300247112.jpg"
     },
     {
         id: 7,
         name: "Luxury Designer Outfit #7",
         price: 189.99,
-        image: "https://i.postimg.cc/ncBL14Ys/photo-1632149877166-f75d49000351.jpg"
+        image: "/photo-1632149877166-f75d49000351.jpg"
     }
 ];
+
+
 // CSS for loading animation
 
 // Bundle state

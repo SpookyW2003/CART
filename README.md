@@ -40,17 +40,7 @@ The goal is to mimic the behavior and layout of a Shopify bundle builder:
 ---
 
 ## 🎨 Design Reference
-- **Figma File** → *(Insert your Figma link here)*
+- **Figma File** → *(https://www.figma.com/design/zvKT1JhCZX5DbjSwfTO1AT/Frontend-assessment?node-id=0-1&t=0fs9WkgtpXVfE7j6-1)*
 
 ---
 
-## 📂 Folder Structure
-```plaintext
-/bundle-builder/
-  ├── index.html
-  ├── style.css
-  ├── script.js
-  └── /assets/
-        ├── product-1.jpg
-        ├── product-2.jpg
-        └── icons/
