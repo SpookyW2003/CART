@@ -8,45 +8,46 @@ const products = [
         id: 1,
         name: "Luxury Designer Outfit #1",
         price: 199.99,
-        image: "/photo-1432149877166-f75d49000351.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1432149877166-f75d49000351.jpg?raw=true"
     },
     {
         id: 2,
         name: "Luxury Designer Outfit #2",
         price: 249.99,
-        image: "/photo-1515886657613-9f3515b0c78f.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1529139574466-a303027c1d8b.jpg?raw=true"
     },
     {
         id: 3,
         name: "Luxury Designer Outfit #3",
         price: 179.99,
-        image: "/photo-1529139574466-a303027c1d8b.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1588117260148-b47818741c74.jpg?raw=true"
     },
     {
         id: 4,
         name: "Luxury Designer Outfit #4",
         price: 229.99,
-        image: "/photo-1588117260148-b47818741c74.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1588117260148-b47818741c74.jpg?raw=true"
     },
     {
         id: 5,
         name: "Luxury Designer Outfit #5",
         price: 159.99,
-        image: "/photo-1603344797033-f0f4f587ab60.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1603344797033-f0f4f587ab60.jpg?raw=true"
     },
     {
         id: 6,
         name: "Luxury Designer Outfit #6",
         price: 269.99,
-        image: "/photo-1608748010899-18f300247112.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1608748010899-18f300247112.jpg?raw=true"
     },
     {
         id: 7,
         name: "Luxury Designer Outfit #7",
         price: 189.99,
-        image: "/photo-1632149877166-f75d49000351.jpg"
+        image: "https://github.com/SpookyW2003/CART/blob/main/public/photo-1632149877166-f75d49000351.jpg?raw=true"
     }
 ];
+
 
 
 // CSS for loading animation
