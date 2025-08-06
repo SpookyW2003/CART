@@ -8,45 +8,46 @@ const products = [
         id: 1,
         name: "Luxury Designer Outfit #1",
         price: 199.99,
-        image: "https://drive.google.com/file/d/1YOI02NHO05RKecfcT5PYTAoRWItEAWi3/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg"
     },
     {
         id: 2,
         name: "Luxury Designer Outfit #2",
         price: 249.99,
-        image: "https://drive.google.com/file/d/1OUEHxj-2iruXtzZHSn5SzIgPreIoXUkN/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg"
     },
     {
         id: 3,
         name: "Luxury Designer Outfit #3",
         price: 179.99,
-        image: "https://drive.google.com/file/d/1cV42rhYNsmyUCl8SCldnkgwFCFP00oTQ/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/6311391/pexels-photo-6311391.jpeg"
     },
     {
         id: 4,
         name: "Luxury Designer Outfit #4",
         price: 229.99,
-        image: "https://drive.google.com/file/d/1tFSav5X2h-MieNXRrEFxNBrxumL_maQ3/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/6311393/pexels-photo-6311393.jpeg"
     },
     {
         id: 5,
         name: "Luxury Designer Outfit #5",
         price: 159.99,
-        image: "https://drive.google.com/file/d/1ds9tYiMATPpCMTGobBsqiNua8oXlq3Tz/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg"
     },
     {
         id: 6,
         name: "Luxury Designer Outfit #6",
         price: 269.99,
-        image: "https://drive.google.com/file/d/108qFHZGitHJdCPHLdUoEDZbo-06-FnSe/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/769728/pexels-photo-769728.jpeg"
     },
     {
         id: 7,
         name: "Luxury Designer Outfit #7",
         price: 189.99,
-        image: "https://drive.google.com/file/d/1BPnzISjNJmATEnv7xHJRgGXEwoMgLu-z/view?usp=drive_link"
+        image: "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
     }
 ];
+
 
 
 
